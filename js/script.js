@@ -46,3 +46,4 @@ if ((isSumEven(numbers, pc) && choice === "pari") ||
 else {
     console.log("hai perso")
 }
+//fine esercizio 2
