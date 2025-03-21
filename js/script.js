@@ -16,3 +16,6 @@ function palindroma(text){
 
 palindroma(word);
 //Fine esercizio
+
+//esercizio 2
+
